@@ -8,6 +8,7 @@ color: '#637a91'
 tags:
 - "Amazon S3"
 - "Google GCS"
+- "Java"
 twitter_text: "Signed Url - Amazon S3 vs Google GCS..."
 introduction: "This Post compares Signed Url for Uploading and Downloading files from Amazon s3 vs Google GCS."
 ---
